@@ -3,7 +3,7 @@
 This Magento 2 module is a wrapper based on the package [Spatie Image optimizer](https://github.com/spatie/image-optimizer).
 
 ## Installation
-- `composer require justbetter/magento2-image-optimizer`
+- `composer require shinetech/magento2-image-optimizer`
 - `bin/magento module:enable JustBetter_ImageOptimizer`
 - `bin/magento setup:upgrade && bin/magento setup:static-content:deploy`
 
